@@ -26,6 +26,7 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - domains / DNS.
 - certificates.
 
+extra:
 - infrastructure envs Slack channels.
 
 ### KPIs
@@ -59,6 +60,7 @@ Actions:
     - errors: timeouts, 500s, crashes -> daily report.
 - Services
     - CPU/memory/disk-space -> alert.
+- Integrations: ops pager (OpsGenie), Slack.
 
 ### Apps orchestration & recovery
 
