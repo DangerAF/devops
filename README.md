@@ -16,7 +16,10 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 ### Artifacts
 
 - DevOps spreadsheet, tabs = (???).
-- performance review reports (weekly)
+- performance review reports (weekly).
+- system/network diagram.
+- clusters/apps list.
+- services list.
 
 ### KPIs
 
