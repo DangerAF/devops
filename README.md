@@ -13,7 +13,7 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - incident management
 - CI/CD
 
-### Artifacts
+### Artifacts / Links
 
 - DevOps spreadsheet, tabs = (???).
 - How to: quick help.
@@ -23,6 +23,8 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - clusters/apps list.
 - services list (name, URL, ?)
 - devops calendar.
+- domains / DNS.
+- certificates.
 
 ### KPIs
 
