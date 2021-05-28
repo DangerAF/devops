@@ -28,6 +28,7 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - ops pager (e.g. OpsGenie).
 - uptime monitoring service (e.g. StatusCake).
 - system status page (e.g. Atlassian StatusPage).
+- CI/CD system.
 
 extra:
 - infrastructure envs Slack channels.
