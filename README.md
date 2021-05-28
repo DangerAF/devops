@@ -20,8 +20,8 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - Troubleshooting: most frequent issues.
 - performance review reports (weekly).
 - system/network diagram.
-- clusters/apps list.
-- services list (name, URL, ?)
+- clusters/apps list  (name, URL, APM service URL, ?).
+- services list.
 - devops calendar.
 - domains / DNS.
 - certificates.
