@@ -57,3 +57,7 @@ Actions:
     - errors: timeouts, 500s, crashes -> daily report.
 - Services
     - CPU/memory/disk-space -> alert.
+
+### Apps orchestration & recovery
+
+- CPU/mem watcher/restarter.
