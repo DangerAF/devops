@@ -15,6 +15,8 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 
 ### KPIs
 
+Scheduled "preformance review" meetings.
+
 - uptime: by apps.
 - performance:
     - number of processed requests (total, by apps), avg. response time by apps.
