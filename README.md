@@ -25,6 +25,9 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - devops calendar.
 - domains / DNS.
 - certificates.
+- ops pager (e.g. OpsGenie).
+- uptime monitoring service (e.g. StatusCake).
+- system status page (e.g. Atlassian StatusPage).
 
 extra:
 - infrastructure envs Slack channels.
