@@ -47,3 +47,14 @@ Actions:
 - tickets: do apps optimization: slow endpoints, etc.
 - tickets: infrastructure upgrades.
 - tickets: service optimization (create db indexes, etc.).
+
+### Monitoring
+
+- Apps
+    - uptime -> alert.
+    - response time -> alert.
+    - CPU/memory -> alert.
+    - errors: timeouts, 500s, crashes -> daily report.
+- Services
+    - CPU/memory -> alert.
+    - memory 
