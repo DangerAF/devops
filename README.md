@@ -53,8 +53,7 @@ Actions:
 - Apps
     - uptime -> alert.
     - response time -> alert.
-    - CPU/memory -> alert.
+    - CPU/memory/disk-space -> alert.
     - errors: timeouts, 500s, crashes -> daily report.
 - Services
-    - CPU/memory -> alert.
-    - memory 
+    - CPU/memory/disk-space -> alert.
