@@ -20,6 +20,7 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - system/network diagram.
 - clusters/apps list.
 - services list.
+- devops calendar.
 
 ### KPIs
 
