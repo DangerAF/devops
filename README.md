@@ -19,7 +19,7 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - performance review reports (weekly).
 - system/network diagram.
 - clusters/apps list.
-- services list.
+- services list (name, URL, ?)
 - devops calendar.
 
 ### KPIs
