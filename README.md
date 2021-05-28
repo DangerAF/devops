@@ -13,6 +13,11 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - incident management
 - CI/CD
 
+### Artifacts
+
+- DevOps spreadsheet, tabs = (???).
+- performance review reports (weekly)
+
 ### KPIs
 
 Scheduled "preformance review" meetings.
