@@ -26,6 +26,8 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - domains / DNS.
 - certificates.
 
+- infrastructure envs Slack channels.
+
 ### KPIs
 
 Scheduled "preformance review" meetings.
