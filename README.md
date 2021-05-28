@@ -16,6 +16,8 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 ### Artifacts
 
 - DevOps spreadsheet, tabs = (???).
+- How to: quick help.
+- Troubleshooting: most frequent issues.
 - performance review reports (weekly).
 - system/network diagram.
 - clusters/apps list.
