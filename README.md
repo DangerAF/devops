@@ -69,6 +69,7 @@ Actions:
 ### Apps orchestration & recovery
 
 - CPU/mem watcher/restarter.
+- errors (timeouts, etc.) watcher/restarter.
 
 ### Communication
 
