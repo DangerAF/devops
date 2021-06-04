@@ -69,3 +69,10 @@ Actions:
 ### Apps orchestration & recovery
 
 - CPU/mem watcher/restarter.
+
+### Communication
+
+- Slack
+    - devops, devops-access, devops-data
+    - env-dev/qa/stage/uat/prod
+
