@@ -13,6 +13,10 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 - incident management
 - CI/CD
 
+### Devops extra responsibilities
+
+- databases/DBA, data streams, data warehouses, ETL.
+
 ### Artifacts / Links
 
 - DevOps spreadsheet, tabs = (???).
