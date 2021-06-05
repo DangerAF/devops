@@ -68,6 +68,7 @@ Actions:
     - errors: timeouts, 500s, crashes -> daily report.
 - Services
     - CPU/memory/disk-space -> alert.
+    - Incidents (status pages email subscription) -> alert (Slack, dev-services channel).
 - Integrations: ops pager (OpsGenie), Slack.
 
 ### Apps orchestration & recovery
@@ -79,5 +80,6 @@ Actions:
 
 - Slack
     - devops, devops-access, devops-data
+    - dev-services
     - env-dev/qa/stage/uat/prod
 
