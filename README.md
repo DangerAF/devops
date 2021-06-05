@@ -83,3 +83,7 @@ Actions:
     - dev-services
     - env-dev/qa/stage/uat/prod
 
+### Resources
+
+https://aws.amazon.com/devops/what-is-devops/
+
