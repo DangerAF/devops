@@ -8,6 +8,8 @@ https://mm.tt/1913675247?t=HKWyZ5Fcoa
 
 ### DevOps classic responsibilities
 
+https://aws.amazon.com/devops/what-is-devops/
+
 - infrastructure
 - monitoring
 - incident management
