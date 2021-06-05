@@ -87,3 +87,5 @@ Actions:
 
 https://aws.amazon.com/devops/what-is-devops/
 
+https://www.reddit.com/r/devops/
+
