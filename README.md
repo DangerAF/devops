@@ -73,6 +73,10 @@ Actions:
     - Incidents (status pages email subscription) -> alert (Slack, dev-services channel).
 - Integrations: ops pager (OpsGenie), Slack.
 
+### Incidents management
+
+https://postmortems.pagerduty.com/resources/post_mortem_template/
+
 ### Apps orchestration & recovery
 
 - CPU/mem watcher/restarter.
