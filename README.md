@@ -35,6 +35,7 @@ https://aws.amazon.com/devops/what-is-devops/
 - uptime monitoring service (e.g. StatusCake).
 - system status page (e.g. Atlassian StatusPage).
 - CI/CD system.
+- maintenance window = ?
 
 extra:
 - infrastructure envs Slack channels.
