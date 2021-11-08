@@ -62,6 +62,14 @@ Actions:
 - tickets: infrastructure upgrades.
 - tickets: service optimization (create db indexes, etc.).
 
+### New Infrastructure
+
+- setup
+- monitoring
+- backups (Db, etc.)
+- security (enable user accts MFA)
+- continuous deployment
+
 ### Monitoring
 
 - Apps
