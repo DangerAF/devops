@@ -14,6 +14,8 @@ https://aws.amazon.com/devops/what-is-devops/
 - monitoring
 - incident management
 - CI/CD
+- (extra) release process
+- (extra) data pipelines
 
 ### Devops extra responsibilities
 
@@ -85,6 +87,16 @@ Actions:
 ### Incidents management
 
 https://postmortems.pagerduty.com/resources/post_mortem_template/
+
+### CI/CD
+
+- Jenkins, CircleCI, BitBucket Pipelines, Buddy, CodeShip.
+- requirements: automation, Docker and docker-compose support.
+
+### Release process
+
+- trunk-based development or GitFlow?
+- https://trunkbaseddevelopment.com/
 
 ### Apps orchestration & recovery
 
