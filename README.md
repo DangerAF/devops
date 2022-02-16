@@ -74,6 +74,7 @@ Actions:
 
 ### Monitoring
 
+- SLA: uptime (health/ping), availability, latency, correctness.
 - Apps
     - uptime -> alert.
     - response time -> alert.
