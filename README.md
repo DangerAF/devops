@@ -1,4 +1,4 @@
-# DevOps Playbook
+# DevOps Standard
 
 Mind map
 
