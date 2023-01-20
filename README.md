@@ -1,4 +1,4 @@
-# DevOps Standard
+# DevOps Playbook
 
 <details>
 <summary>Read more</summary>
