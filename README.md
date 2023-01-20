@@ -1,5 +1,14 @@
 # DevOps Standard
 
+<details>
+<summary>Preview</summary>
+
+{% highlight ruby %}
+puts 'Expanded message'
+{% endhighlight %}
+
+</details>
+
 Mind map
 
 https://mm.tt/1913675247?t=HKWyZ5Fcoa
